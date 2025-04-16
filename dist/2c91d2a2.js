@@ -1,0 +1,1 @@
+import{b as n}from"./6d574a4e.js";var i=n(({app:t})=>{t.config.globalProperties.$integrations={fileBarIntegrations:[],clientMenuIntegrations:[],siteMenuIntegrations:[],agentMenuIntegrations:[]}});export{i as default};
