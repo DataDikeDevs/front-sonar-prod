@@ -1,1 +1,0 @@
-import{K as t,u as n,ei as u,M as a}from"./7e207d24.js";import{u as r}from"./20ae27b2.js";import"./2fb128e4.js";const _=t({__name:"SessionExpired",setup(i){const o=n(),{close:e}=r(),s=u();return a(async()=>{await o.logout(),e(),setTimeout(()=>{s.push("/login")},2e3)}),()=>{}}});export{_ as default};
