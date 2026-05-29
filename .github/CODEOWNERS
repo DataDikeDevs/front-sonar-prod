@@ -1,0 +1,9 @@
+# .github/CODEOWNERS
+# DataDike LTDA — repositórios cujo nome contém "front" (case-insensitive)
+# Atende: Controle 8.4 §7.5 e Lacuna #13 do plano de ação 9.1
+#
+# Regra: qualquer mudança em ramo protegido requer revisão por pelo menos
+# um dos Code Owners abaixo. O primeiro é o titular primário; o segundo
+# atua como backup para evitar bloqueio em caso de ausência.
+
+* @iamdevgusta @waltereza
