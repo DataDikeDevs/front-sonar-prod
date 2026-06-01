@@ -1,0 +1,12 @@
+# .github/CODEOWNERS
+# DataDike LTDA — repositórios cujo nome contém "front" (sem "api")
+# Atende: Controle 8.4 §7.5 e Lacuna #13 do plano de ação 9.1
+#
+# Regra: qualquer mudança em ramo protegido requer revisão por pelo menos
+# um dos Code Owners abaixo:
+#   - @iamdevgusta             — Code Owner primário (Frontend)
+#   - @DataDikeDevs/code-reviewers — Time backup (Walter Vieira Neto, Gustavo
+#     de Souza Campos), garantindo continuidade operacional e acesso uniforme
+#     a todos os 61 repositórios da organização.
+
+* @iamdevgusta @DataDikeDevs/code-reviewers
